@@ -1,0 +1,35 @@
+# Built application files
+*.apk
+*.ap_
+
+# Files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Windows thumbnail databases
+Thumbs.db
+
+# Android Studio
+*.iml
+# In case you want to remove all IntelliJ IDEA config files; The other .idea/* infos are then obsolete!
+.idea
+#.idea/workspace.xml
+#.idea/libraries
+#.idea/copyright/profiles_settings.xml
+.gradle
+build/
+
+# NDK
+obj/
+
+
+/captures
