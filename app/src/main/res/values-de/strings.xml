@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The Choice texts -->
+    <string name="app_name">The Choice</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_random_choice_result">Zufälliges Ergebnis</string>
+
+    <string name="hint_press_choose_button">Bitte \&quot;%1$s\&quot; drücken.</string>
+    <string name="hint_shake_to_choose">Oder schütteln!</string>
+    <string name="choose_from_list">Aus Liste wählen</string>
+    <string name="hint_list_name">Listenname</string>
+    <string name="throw_coin">Münzwurf</string>
+    <string name="rule_dice">Würfeln</string>
+    <string name="rule_custom_dice">Würfeln mit Bereich 1&#8230; </string>
+    <string name="hint_custom_dice_range">z.B.: 10</string>
+
+    <string name="button_choose">Wähle</string>
+
+    <string name="action_edit_items">Einträge bearbeiten</string>
+    <string name="action_edit_itemlists">Eintragslisten bearbeiten</string>
+
+    <string name="text_please_add_items">Bitte zuerst Einträge mittels des \"%1$s\" Menüeintrags hinzufügen!</string>
+
+    <string name="action_exit">Exit</string>
+
+    <!-- Shared texts -->
+    <string name="text_yes">Ja</string>
+    <string name="text_no">Nein</string>
+
+    <!-- Items Database Editor texts -->
+    <string name="app_db_editor_name">Item Database Editor</string>
+
+    <string name="action_back_to_choose_item">Zurück</string>
+
+    <string name="button_add_new_item">Hinzufügen</string>
+    <string name="button_save_item">Speichern</string>
+    <string name="button_cancel_edit_item">Abbrechen</string>
+    <string name="hint_edit_or_delete_item">Eintrag anklicken und halten.</string>
+
+
+    <string name="button_delete_all_items">Alle löschen</string>
+    <string name="button_add_default_items">Standard-Einträge</string>
+
+    <string name="dialog_text_really_delete_all_items">Wirklich alle Einträge löschen?</string>
+
+
+    <string name="text_item_editor">Item editor</string>
+
+
+    <string name="context_menu_edit_item">Bearbeiten</string>
+
+    <string name="context_menu_delete_item">Löschen</string>
+    <string name="dialog_text_really_delete_item">Wirklich den Eintrag löschen?</string>
+
+    <string name="text_edit_item">Eintrag bearbeiten</string>
+
+    <string name="hint_edit_item_name">Eintragnamen bearbeiten</string>
+    <string name="hint_edit_item_list_name">Listennamen bearbeiten</string>
+
+    <string name="text_item_database_list">Einträge</string>
+
+</resources>
